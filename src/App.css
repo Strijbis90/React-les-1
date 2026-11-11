@@ -1,0 +1,21 @@
+.sold {
+    color: green;
+  }
+  .stock {
+    color: blue;
+  }
+  .to-sell {
+    color: red;
+  }
+  .tv {
+    display: flex;
+    gap: 16px;
+    align-items: center;
+  }
+  
+  .tv img {
+    width: 180px;
+  }
+  .options img {
+    width: 16px;
+  }

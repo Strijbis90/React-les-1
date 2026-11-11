@@ -1,3 +1,9 @@
+// Data voor het dashboard. Geen functies.
+// bestSellingTv: één object, gebruikt voor de kaart "Best verkochte tv".
+// inventory: array met alle tv's, gebruikt voor totalen, lijsten, filters en sorteren.
+// Velden per tv: type, brand, name, price, availableSizes, refreshRate, screenType,
+// screenQuality, smartTv, sourceImg, options (name + applicable), originalStock, sold.
+
 // BEST VERKOPENDE TV
 export const bestSellingTv = {
     type: 'UHD 55AU7040',
